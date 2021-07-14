@@ -9,7 +9,7 @@
 Нужно построить систему, которая будет анализировать клиентов, и по итогу предложить нужный клиенту тариф. Строится модель классификации. Нужно будет построить модель с максимально большим accuracy.
 # Библиотеки
 - *Pandas*
-- *sklearn.model_selection *
+- *sklearn.model_selection*
 - *IPython.display*
 - *sklearn.metrics*
 - *sklearn.ensemble*
